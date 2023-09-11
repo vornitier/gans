@@ -9,7 +9,7 @@ All about GANS
 
 ## Installation
 
-- Open Google Colab. Upload images. Run the notebook.
+- Open Google Colab. Install packages. Grab audio. Run the notebook.
 
 ##  Contributing
 
